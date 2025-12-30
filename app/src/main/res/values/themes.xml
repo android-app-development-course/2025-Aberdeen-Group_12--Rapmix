@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.RAPMix" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- 可以先空着 -->
+    </style>
+
+</resources>
